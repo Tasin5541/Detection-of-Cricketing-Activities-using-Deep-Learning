@@ -1,0 +1,6 @@
+
+data_rgb/Models/export.pkl
+data_rgb/shots/export.pkl
+data_rgb/shots/models/stage-1.pth
+data_rgb/shots/models/stage-2.pth
+data_rgb/shots/models/tmp.pth
